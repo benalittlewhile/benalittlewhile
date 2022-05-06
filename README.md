@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **benalittlewhile/benalittlewhile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+```javascript
+export const Ben = {
+  name: "Ben Hickey",
+  pronouns: "He/Him",
+  languages: ["javascript/typescript", "html/css", "bash", "go", "python", "java", "c++"],
+  frameworks: ["react :D", "tailwind ❤️", "svelte", "angular", "ngrx"],
+  nextOnList: ["sveltekit", "next.js", "edge functions/serverless", "react native", "redux", "graphql"],
+  coffeeOrTea: "☕️",
+  dogsOrCats: "Corgis ❤️",
+};
+```
